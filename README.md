@@ -1,11 +1,19 @@
-# WeatherApplication
-A simple weather application using the openweather API.
+Name: Manasi Shirke
+Company: CODETECH IT SOLUTIONS
+ID: CTO8DS6294
+Domain: Web Developement
+Duration: August to September 2024
+Mentor: Muzammil Ahmed
 
-STEPS TO RUN THE CODE: 
-1. Go to https://openweathermap.org
-2. Create a free account
-3. Navigate to the API keys section
-4. Generate a key
-5. Copy that key to clipboard
-6. Insert that key into the required variable in the script.js file
-7. Enjoy!
+# Overview Of Project
+Project: WeatherApplication
+A simple weather application using the openweather API.
+# Features
+Current Weather Display: Provides current weather conditions including temperature, humidity, wind speed, and weather description.
+Location Search: Allows users to search for weather information by entering a specific location or city name.
+# Technologies Used
+HTML5
+CSS3
+JavaScript
+Openweather Api
+ 
